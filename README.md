@@ -13,3 +13,5 @@ The cache size, associativity, the replacement policy, and the block size are th
 Replacement algorithm: First In First Out (FIFO).
 
 You have to simulate a write through cache.
+
+MORE INFO: pa4.pdf
